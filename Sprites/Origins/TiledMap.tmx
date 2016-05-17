@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="50" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="HengeTile" tilewidth="32" tileheight="32">
+  <image source="BGsTiles/HengeTile.png" trans="ff00ff" width="256" height="480"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmttKw0AQhldRCgoKojcWvPdcPMQLqwgeQcS+/9M4Axk6DJt0k5jNNvt/8KPtxpXOt7tT2jgHAAAAAAAAACAHtikTFTAM4uGIskfZLwPiwy60hxPKRhkQF+1Ce4CPYdik7Di/C/iIh+7bx87vAj7iIfvC9gv4GI4DV+0BPuIDH2kBH2kBH2kBH2kBH2kBH2kBH2kBH2kBH2kBH2kBH/H4oHxSvjxj8tlu3ee68LGac8oF5TLw+kXF86u+88jZB9dY6itr2kbW+C3ljnJfM5f2VVCuKq4NOavW2YeuaxO4xrq+P5Rf9XhhrtU+7Jn0YMaLMj7G7sPWNYQZ5ZXyXjPPtxl7U+ML89P6YhfP5e/X5n/n7EP656l5vvD8nX1cmDGu94sZK8y4b3/oec5cWC8fkw/9/bTcv8Gv75EyHzBPlBsX1sv79jHrYU6uO697PrvFB68/e19Z6OtPLX1S1dvaYO/nk3XP62/dHcT0YftaU3z3VY6h7n36sPcESx/V/Y3PlK0W8+bi4b982JpJdB/lM2WXcuiWzurc2D2Rg4euPprWbOqWrrQb6yXHPdHGhz2TutRM3Ng9k+ue0JkExncmda3Z1Mw3pvdJbeOrR1VyrhOCIAiCIAiCIN3zB8rWLhI=
+  </data>
+ </layer>
+</map>
